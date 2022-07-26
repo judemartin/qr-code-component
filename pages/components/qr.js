@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 function Qr() {
   return (
-    <div className="bg-white rounded-3xl w-[320px] h-[497px] mt-[85px] mx-auto flex">
+    <div className="bg-white rounded-3xl w-[320px] h-[497px] mt-[129px] mx-auto flex">
       <div className="flex flex-col mx-4 mt-4">
         <Image
           className="rounded-xl mt-4"
