@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="flex items-center justify-center h-screen">
+      <main className="flex h-screen">
         <Qr />
       </main>
 
